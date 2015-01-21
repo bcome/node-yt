@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "since.js",
+  "sourceRoot": "",
+  "sources": [
+    "since.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA,YAAA,CAAA;AAAA"
+}
